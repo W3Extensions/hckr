@@ -1,13 +1,15 @@
 # hckr
-Hacker News clone theme for WordPress (optimized for W3 Directory Builder)
-
-Description
-_____________
-
 A simple, minimalist social bookmarking theme that's designed for use with W3 Directory Builder (and other W3Extensions products).
 
+
+Installation
+---------------------
+
+Just install HCKR like another theme. (W3 Directory Builder does most of the heavy lifting.)
+
+
 W3 Directory Builder
-_____________________
+---------------------
 
 *Basic (Free)*
 
@@ -17,6 +19,4 @@ _____________________
 
 [https://w3extensions.com/products/directory-builder/](https://w3extensions.com/products/directory-builder/)
 
-Installation
-____________
-Just install HCKR like another theme. (W3 Directory Builder does most of the heavy lifting.)
+
